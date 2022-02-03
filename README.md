@@ -12,7 +12,7 @@ I am originally from Amarillo, Texas but I moved to Austin when I was still very
 ✍️ &nbsp;In my free time, I pursue research experience, act occasionally, and scuba dive.\
 💬 &nbsp;Feel free to reach out to me for anything to do with Anxiety, Depression, or just interesting conversation.\
 ✉️ &nbsp;You can shoot me an email at mcspadden706@gmail.com! I'll should be able reach out within 24 hours.\
-📄 &nbsp;Please have a look at my [Résumé]shorturl.at/tJKU6 for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1H5j6G9moyJsu2_NZgwPk3Np1XwaK3Osb/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -39,7 +39,7 @@ I am originally from Amarillo, Texas but I moved to Austin when I was still very
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href=https://www.linkedin.com/in/bryan-mcspadden-b91b63173/><img src="https://img.shields.io/badge/-BryanMcSpadden?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href=https://www.linkedin.com/in/bryan-mcspadden-b91b63173/><img src="https://img.shields.io/badge/-BryanMcSpadden-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mcspadden706@gmail.com"><img src="https://img.shields.io/badge/-mcspadden706@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/andrewbryanryan"><img src="https://img.shields.io/badge/-@andrewbryanryan-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/BryanMcSp"><img src="https://img.shields.io/badge/-@BryanMcSp-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
