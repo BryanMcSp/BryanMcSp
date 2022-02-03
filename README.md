@@ -3,19 +3,18 @@
 
 I am originally from Amarillo, Texas but I moved to Austin (More specifically Cedar Park) when I was around six years old. Ever since then I have fallen in love with Austin, and ended up fulfilling a lifelong dream when I got accepted into UT. I am excited to continue my path through the world of Psychology, and I want use whatever tools available to help those who are unable to help themselves. My current goal is to become a licensed clinical psychologist who devotes their time both to research and practice. I hope to one day help normalize the conversation around mental health, and provide easily accessible treatment to those struggling everyday with mental illness. 
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-## 👋 &nbsp;Hey there! I'm Aditya
+## 👋 &nbsp;Hey there! I'm Bryan
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I like to research Psychological trends through experiments and data analysis.\
+🎓 &nbsp;I'm currently studying Psychology and Sociology at the University of Texas at Austin.\
+🌱 &nbsp;I'm on track to eventually pursue a PhD in Clinical Psychology in order to focus on Anxiety and Depression.\
+✍️ &nbsp;In my free time, I pursue research experience, act occasionally, and scuba dive.\
+💬 &nbsp;Feel free to reach out to me for anything to do with Anxiety, Depression, or just interesting conversation.\
+✉️ &nbsp;You can shoot me an email at mcspadden706@gmail.com! I'll should be able reach out within 24 hours.\
+📄 &nbsp;Please have a look at my [Résumé]shorturl.at/tJKU6 for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -61,5 +60,5 @@ I am originally from Amarillo, Texas but I moved to Austin (More specifically Ce
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [BryanMcSP](https://github.com/BryanMcSp)
 
