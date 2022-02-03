@@ -1,10 +1,8 @@
-# Bryan Andrew McSpadden
+# 👋 &nbsp;Hey there! I'm Bryan
+
 ## I am a student at The University of Texas at Austin interested in Clinical Psychology, specifically the areas of Anxiety and Depression, as well as Data Science. 
 
-I am originally from Amarillo, Texas but I moved to Austin (More specifically Cedar Park) when I was around six years old. Ever since then I have fallen in love with Austin, and ended up fulfilling a lifelong dream when I got accepted into UT. I am excited to continue my path through the world of Psychology, and I want use whatever tools available to help those who are unable to help themselves. My current goal is to become a licensed clinical psychologist who devotes their time both to research and practice. I hope to one day help normalize the conversation around mental health, and provide easily accessible treatment to those struggling everyday with mental illness. 
-
-
-## 👋 &nbsp;Hey there! I'm Bryan
+I am originally from Amarillo, Texas but I moved to Austin when I was still very young. Ever since then I have fallen in love with the city, and ended up fulfilling a lifelong dream when I got accepted into UT. I am excited to continue my path through the world of Psychology, and I want use whatever tools available to help those who are unable to help themselves. My current goal is to become a licensed clinical psychologist who devotes their time both to research and practice. I hope to one day help normalize the conversation around mental health, and provide easily accessible treatment to those struggling everyday with mental illness. 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -41,12 +39,11 @@ I am originally from Amarillo, Texas but I moved to Austin (More specifically Ce
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href=https://www.linkedin.com/in/bryan-mcspadden-b91b63173/><img src="https://img.shields.io/badge/-BryanMcSpadden?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mcspadden706@gmail.com"><img src="https://img.shields.io/badge/-mcspadden706@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/andrewbryanryan"><img src="https://img.shields.io/badge/-@andrewbryanryan-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
-</p>
+<a href="https://facebook.com/BryanMcSp"><img src="https://img.shields.io/badge/-@BryanMcSp-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+
 
 ⭐️ From [BryanMcSP](https://github.com/BryanMcSp)
 
