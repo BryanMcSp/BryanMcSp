@@ -45,5 +45,5 @@ I am originally from Amarillo, Texas but I moved to Austin when I was still very
 <a href="https://facebook.com/BryanMcSp"><img src="https://img.shields.io/badge/-@BryanMcSp-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 
-⭐️ From [BryanMcSP](https://github.com/BryanMcSp)
+⭐️ From [BryanMcSp](https://github.com/BryanMcSp)
 
