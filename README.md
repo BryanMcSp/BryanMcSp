@@ -14,7 +14,7 @@ I am originally from Amarillo, Texas but I moved to Austin when I was still very
 ✉️ &nbsp;You can shoot me an email at mcspadden706@gmail.com! I'll should be able reach out within 24 hours.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1H5j6G9moyJsu2_NZgwPk3Np1XwaK3Osb/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="This Is Your Brain On War" src="https://taskandpurpose.com/app/uploads/2020/11/image-placeholder-title-295.gif" align="right" width = "300" height "250"/>
+<img alt="This Is Your Brain On War" src="https://taskandpurpose.com/app/uploads/2020/11/image-placeholder-title-295.gif" align="right" width ="475" height ="300"/>
 
 ### 🛠 &nbsp;Tech Stack
 
