@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hey there! I'm Bryan
 
-## I am a recent graduate from The University of Texas at Austin interested in Clinical Psychology, specifically the areas of Anxiety and Depression, as well as Data Science. 
+## I am a doctoral at The University of Texas at Austin's Clinical Psychology program. I am primarily interested in the treatment of Anxiety and Depression, as well as novel Data Science techniques. 
 
 I am originally from Amarillo, Texas but I moved to Austin when I was still very young. Ever since then I have fallen in love with the city, and ended up fulfilling a lifelong dream when I got accepted into UT. I am excited to continue my path through the world of Psychology, and I want use whatever tools available to help those who are unable to help themselves. My current goal is to become a licensed clinical psychologist who devotes their time both to research and practice. I hope to one day help normalize the conversation around mental health, and provide easily accessible treatment to those struggling everyday with mental illness. 
 
