@@ -1,4 +1,4 @@
-# 👋 &nbsp;Hey there! I'm Bryan
+# 👋 &nbsp;Hello! My name is Bryan McSpadden
 
 ## I am a doctoral at The University of Texas at Austin's Clinical Psychology program. I am interested in the treatment of anxiety and anxiety-related problems. 
 
