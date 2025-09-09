@@ -1,18 +1,14 @@
 # 👋 &nbsp;Hey there! I'm Bryan
 
-## I am a doctoral at The University of Texas at Austin's Clinical Psychology program. I am primarily interested in the treatment of Anxiety and Depression, as well as novel Data Science techniques. 
-
-I am originally from Amarillo, Texas but I moved to Austin when I was still very young. Ever since then I have fallen in love with the city, and ended up fulfilling a lifelong dream when I got accepted into UT. I am excited to continue my path through the world of Psychology, and I want use whatever tools available to help those who are unable to help themselves. My current goal is to become a licensed clinical psychologist who devotes their time both to research and practice. I hope to one day help normalize the conversation around mental health, and provide easily accessible treatment to those struggling everyday with mental illness. 
+## I am a doctoral at The University of Texas at Austin's Clinical Psychology program. I am interested in the treatment of anxiety and anxiety-related problems. 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to research Psychological trends through experiments and data analysis.\
-🎓 &nbsp;I'm currently studying Psychology and Sociology at the University of Texas at Austin.\
-🌱 &nbsp;I'm on track to eventually pursue a PhD in Clinical Psychology in order to focus on Anxiety and Depression.\
-✍️ &nbsp;In my free time, I pursue research experience, act occasionally, and scuba dive.\
-💬 &nbsp;Feel free to reach out to me for anything to do with Anxiety, Depression, or just interesting conversation.\
-✉️ &nbsp;You can shoot me an email at mcspadden706@gmail.com! I'll should be able reach out within 24 hours.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1H5j6G9moyJsu2_NZgwPk3Np1XwaK3Osb/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;I'm currently in my 2nd year at the University of Texas at Austin's Clinical Psychology PhD Program.\
+💬 &nbsp;Always feel free to contact me if you're interested in collaborating on a project.\
+✉️ &nbsp;You can reach me by email at mcspadden706@utexas.edu! I'll should be able reach out within 24 hours.\
+📄 &nbsp;Please have a look at my [CV]([https://drive.google.com/file/d/1H5j6G9moyJsu2_NZgwPk3Np1XwaK3Osb/view?usp=sharing](https://docs.google.com/document/d/1y6erGrn6N_LBC568vviqFDLnVKFsX7Me/edit?usp=sharing&ouid=100735416266850361049&rtpof=true&sd=true)) for more information about my prior work!
 
 <img alt="This Is Your Brain On War" src="https://taskandpurpose.com/app/uploads/2020/11/image-placeholder-title-295.gif" align="right" width ="475" height ="275"/>
 
