@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to research Psychological trends through experiments and data analysis.\
-🎓 &nbsp;I'm currently in my 2nd year at the University of Texas at Austin's Clinical Psychology PhD Program.\
-💬 &nbsp;Always feel free to contact me if you're interested in collaborating on a project.\
+💡 &nbsp;I am primarily interested in the mechanisms of exposure-based therapies.\
+🎓 &nbsp;I am currently in my 2nd year at the University of Texas at Austin's Clinical Psychology PhD Program.\
+💬 &nbsp; Please contact me if you're interested in collaborating on a project or if you just want a quick chat.\
 ✉️ &nbsp;You can reach me by email at mcspadden706@utexas.edu! I'll should be able reach out within 24 hours.\
 📄 &nbsp;Please have a look at my [CV]([https://drive.google.com/file/d/1H5j6G9moyJsu2_NZgwPk3Np1XwaK3Osb/view?usp=sharing](https://docs.google.com/document/d/1y6erGrn6N_LBC568vviqFDLnVKFsX7Me/edit?usp=sharing&ouid=100735416266850361049&rtpof=true&sd=true)) for more information about my prior work!
 
